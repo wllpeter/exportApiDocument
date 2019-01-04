@@ -15,6 +15,25 @@
 *.iws
 *.iml
 *.ipr
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.idea/artifacts/
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/logs/
+/.idea/artifacts/recruit_war.xml
+/.idea/artifacts/recruit_war_exploded.xml
+/.idea/
+
+target/
+
 
 ### NetBeans ###
 /nbproject/private/
